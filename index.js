@@ -127,7 +127,7 @@ async function starts() {
 					ownerG: '*❬❗️️❭ Comando disponível apenas para os proprietários do bot!*',
 					ownerB: '*❬❗️️❭ Comando disponível apenas para os proprietários do bot!*',
 					admin: '*❬👮❭ Comando disponível apenas para os administradores do grupo, seu membro comum! 🖕*',
-					Badmin: '*❬❗️️❭ O bot precisa de adm para cumprir suas funções!*''
+					Badmin: '*❬❗️️❭ O bot precisa de adm para cumprir suas funções!*'
 				}
 			}
 
